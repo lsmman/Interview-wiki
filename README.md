@@ -23,9 +23,11 @@
 
 ----
 
-## part 1 전산 기초
+## Part 1 전산 기초
 
 ### :bulb: 개발상식 [Link](https://github.com/lsmman/Interview-wiki/blob/main/Development_common_sense)
+
+- TDD
 
 ### :bulb: 자료구조 [Link](https://github.com/lsmman/Interview-wiki/blob/main/DataStructure)
 
@@ -41,11 +43,11 @@
 
 ----
 
-## part 2 language
+## Part 2 language
 
 ----
 
-## part 3 분야별
+## Part 3 분야별
 
 ### :bulb: Web [Link](https://github.com/lsmman/Interview-wiki/blob/main/Web)
 
